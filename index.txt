@@ -1,6 +1,6 @@
 Push code to GitHub Repository
 
-Configuring IDE to your GitHub Account
+/--Configuring IDE to your GitHub Account--/
 
 
 STEP 1:
@@ -27,6 +27,6 @@ git branch -M main
 STEP 8:
 git push -u origin main
 
-Pull Commits
+/--Pull Commits--/
 
 git pull origin main
