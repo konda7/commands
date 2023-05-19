@@ -27,4 +27,6 @@ git branch -M main
 STEP 8:
 git push -u origin main
 
-Personal Token:  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
+Pull Commits
+
+git pull origin main
