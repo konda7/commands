@@ -1,0 +1,4 @@
+Getting Errors in the terminal, even after fixing the issue
+
+
+rm -rf node_modules && npm install

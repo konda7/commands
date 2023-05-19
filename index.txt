@@ -1,0 +1,30 @@
+Push code to GitHub Repository
+
+Configuring IDE to your GitHub Account
+
+
+STEP 1:
+git config --global user.email "Enter you email ID here"
+
+STEP 2:
+git config --global user.name "Enter your name here"
+
+STEP 3:
+git init
+
+STEP 4:
+git remote add origin <repositary-url>
+
+STEP 5:
+git add -A
+
+STEP 6:
+git commit -m "commit message"
+
+STEP 7:
+git branch -M main
+
+STEP 8:
+git push -u origin main
+
+Personal Token:  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
