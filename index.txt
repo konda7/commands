@@ -27,6 +27,14 @@ git branch -M main
 STEP 8:
 git push -u origin main
 
+
+
 /--Pull Commits--/
 
 git pull origin main
+
+
+
+/--Clone git repository==/
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
